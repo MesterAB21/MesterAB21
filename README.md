@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abderrahmane Hamaidi
 
-🚀 **Full-Stack Developer | SaaS Builder | AI & Automation Engineer**
+🚀 **Full-Stack Developer | SaaS Builder | AI & Automation Engineer |Computer Science at ESI**
 
 I design and build **scalable SaaS products, intelligent systems, and automation workflows** that solve real-world problems.
 My work sits at the intersection of **software engineering, AI, and system design** — turning ideas into production-ready applications.
